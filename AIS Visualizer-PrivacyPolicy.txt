@@ -1,0 +1,53 @@
+**Privacy Policy for LG AIS Visualization**
+
+Liquid Galaxy ORG built the LG AIS Visualization app as an Open Source application. This Service is provided by Liquid Galaxy ORG at no cost and is intended for use as is.
+
+This Privacy Policy is designed to inform users about how we handle information collected when using the LG AIS Visualization app. By using the Service, you agree to the collection and use of information in accordance with this policy. Please note that this app is designed to operate without collecting personally identifiable information from users.
+
+**Information Collection and Use**
+
+The LG AIS Visualization app does not collect any personal data from users. The app utilizes open AIS data from the Norwegian Coastal Administration to provide maritime insights, such as real-time vessel tracking and collision risk management. All data processed by the app is related to public vessel information and is not linked to any individual user.
+
+**No Data Collection Declared**
+
+The developer confirms that this app does not collect any user data.
+
+**No Data Shared with Third Parties**
+
+The developer confirms that this app does not share user data with other companies or organizations. The app operates independently of user-specific data and focuses solely on maritime data obtained from public sources.
+
+**Log Data**
+
+In the event of an error in the app, we may collect data and information (through third-party products) on your device called Log Data. This Log Data may include information such as your device's Internet Protocol (IP) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics. This data is used solely for the purpose of diagnosing and resolving technical issues and is not shared with third parties.
+
+**Cookies**
+
+The LG AIS Visualization app does not use cookies.
+
+**Service Providers**
+
+We may employ third-party companies and individuals due to the following reasons:
+- To facilitate our Service;
+- To provide the Service on our behalf;
+- To perform Service-related services; or
+- To assist us in analyzing how our Service is used.
+
+These third parties may have access to your Log Data, but they are obligated not to disclose or use the information for any other purpose.
+
+**Security**
+
+We value your trust in providing us with your Log Data and strive to use commercially acceptable means of protecting it. However, no method of transmission over the internet or electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+**Children’s Privacy**
+
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the event we discover that a child under 13 has provided us with personal information, we will immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we can take the necessary actions.
+
+**Changes to This Privacy Policy**
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+This policy is effective as of 12/06/2024.
+
+**Contact Us**
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at liquidgalaxylab@gmail.com.
